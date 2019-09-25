@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="issue_type" table="x_137031_qc_quality_claim" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>issue_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Claim</label>
+            <language>en</language>
+            <name>x_137031_qc_quality_claim</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-09-18 20:35:17</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>db9d0bd01b4440107f81da49cc4bcb39</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-09-18 20:35:17</sys_updated_on>
+            <value>Claim</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>issue_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Feedback</label>
+            <language>en</language>
+            <name>x_137031_qc_quality_claim</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-09-18 20:35:17</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9f9d0bd01b4440107f81da49cc4bcb3b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-09-18 20:35:17</sys_updated_on>
+            <value>Feedback</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>issue_type</element>
+            <name>x_137031_qc_quality_claim</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-09-18 20:35:17</sys_created_on>
+            <sys_id>579d0bd01b4440107f81da49cc4bcb3a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>issue_type</sys_name>
+            <sys_package display_value="SCAR" source="x_137031_qc">d78b7e501b8c00107f81da49cc4bcbd6</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="SCAR">d78b7e501b8c00107f81da49cc4bcbd6</sys_scope>
+            <sys_update_name>sys_choice_x_137031_qc_quality_claim_issue_type</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-09-18 20:35:17</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

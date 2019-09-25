@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Tracking" section_id="86abbb201b8480107f81da49cc4bcbb1" sys_domain="global" table="x_137031_qc_corrective_action_task" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>plant</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-09-19 18:34:57</sys_created_on>
+            <sys_id>5eabfb201b8480107f81da49cc4bcb57</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Tracking" display_value="Tracking" name="x_137031_qc_corrective_action_task" sys_domain="global" view="Default view">86abbb201b8480107f81da49cc4bcbb1</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-09-19 18:34:57</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>supplier_name</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-09-19 18:34:57</sys_created_on>
+            <sys_id>deabfb201b8480107f81da49cc4bcb57</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Tracking" display_value="Tracking" name="x_137031_qc_corrective_action_task" sys_domain="global" view="Default view">86abbb201b8480107f81da49cc4bcbb1</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-09-19 18:34:57</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>supplier_contact</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-09-19 18:34:57</sys_created_on>
+            <sys_id>52abfb201b8480107f81da49cc4bcb58</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Tracking" display_value="Tracking" name="x_137031_qc_corrective_action_task" sys_domain="global" view="Default view">86abbb201b8480107f81da49cc4bcbb1</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-09-19 18:34:57</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>quantity_rejected</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-09-19 18:34:57</sys_created_on>
+            <sys_id>d2abfb201b8480107f81da49cc4bcb58</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Tracking" display_value="Tracking" name="x_137031_qc_corrective_action_task" sys_domain="global" view="Default view">86abbb201b8480107f81da49cc4bcbb1</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-09-19 18:34:57</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-09-19 18:34:57</sys_created_on>
+            <sys_id>56abfb201b8480107f81da49cc4bcb58</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Tracking" display_value="Tracking" name="x_137031_qc_corrective_action_task" sys_domain="global" view="Default view">86abbb201b8480107f81da49cc4bcbb1</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-09-19 18:34:57</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>action_type</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-09-19 18:34:57</sys_created_on>
+            <sys_id>d6abfb201b8480107f81da49cc4bcb58</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Tracking" display_value="Tracking" name="x_137031_qc_corrective_action_task" sys_domain="global" view="Default view">86abbb201b8480107f81da49cc4bcbb1</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-09-19 18:34:57</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>issue_type</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-09-19 18:34:57</sys_created_on>
+            <sys_id>5aabfb201b8480107f81da49cc4bcb58</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Tracking" display_value="Tracking" name="x_137031_qc_corrective_action_task" sys_domain="global" view="Default view">86abbb201b8480107f81da49cc4bcbb1</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-09-19 18:34:57</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>supplier_contact_email</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-09-19 18:34:57</sys_created_on>
+            <sys_id>daabfb201b8480107f81da49cc4bcb58</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Tracking" display_value="Tracking" name="x_137031_qc_corrective_action_task" sys_domain="global" view="Default view">86abbb201b8480107f81da49cc4bcbb1</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-09-19 18:34:57</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Tracking</caption>
+            <header>false</header>
+            <name>x_137031_qc_corrective_action_task</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-09-19 18:34:56</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>86abbb201b8480107f81da49cc4bcbb1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Tracking</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="SCAR" source="x_137031_qc">d78b7e501b8c00107f81da49cc4bcbd6</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="SCAR">d78b7e501b8c00107f81da49cc4bcbd6</sys_scope>
+            <sys_update_name>sys_ui_section_86abbb201b8480107f81da49cc4bcbb1</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-09-19 18:34:56</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

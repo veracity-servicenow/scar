@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="Supplier Corrective Action" language="en" table="x_137031_qc_quality_claim">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>Supplier Corrective Action</label>
+            <language>en</language>
+            <name>x_137031_qc_quality_claim</name>
+            <plural>Supplier Corrective Actions</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-09-18 19:20:30</sys_created_on>
+            <sys_id>448cb2501b0040107f81da49cc4bcb25</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_name>Supplier Corrective Action</sys_name>
+            <sys_package display_value="SCAR" source="x_137031_qc">d78b7e501b8c00107f81da49cc4bcbd6</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="SCAR">d78b7e501b8c00107f81da49cc4bcbd6</sys_scope>
+            <sys_update_name>sys_documentation_x_137031_qc_quality_claim__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-09-18 20:33:06</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

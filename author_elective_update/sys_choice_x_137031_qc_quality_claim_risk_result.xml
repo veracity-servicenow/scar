@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="DELETE" field="risk_result" table="x_137031_qc_quality_claim" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>risk_result</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>13-19%20Moderate</label>
+            <language>en</language>
+            <name>x_137031_qc_quality_claim</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-09-18 21:44:45</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c98d17141b8440107f81da49cc4bcb24</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-09-18 21:44:45</sys_updated_on>
+            <value>13-19%20Moderate</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>risk_result</element>
+            <name>x_137031_qc_quality_claim</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-09-18 21:44:45</sys_created_on>
+            <sys_id>458d17141b8440107f81da49cc4bcb23</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>risk_result</sys_name>
+            <sys_package display_value="Quality Claim" source="x_137031_qc">d78b7e501b8c00107f81da49cc4bcbd6</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Quality Claim">d78b7e501b8c00107f81da49cc4bcbd6</sys_scope>
+            <sys_update_name>sys_choice_x_137031_qc_quality_claim_risk_result</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-09-18 21:44:45</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="SCAR">d78b7e501b8c00107f81da49cc4bcbd6</application>
+        <file_path/>
+        <instance_id>06346385dbcf7b4042b321c4059619f2</instance_id>
+        <instance_name>dev90392</instance_name>
+        <name>sys_choice_x_137031_qc_quality_claim_risk_result</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_choice action="INSERT_OR_UPDATE" field="risk_result" table="x_137031_qc_quality_claim" version="3"><sys_choice action="INSERT_OR_UPDATE"><dependent_value/><element>risk_result</element><hint/><inactive>false</inactive><label>13-19%20Moderate</label><language>en</language><name>x_137031_qc_quality_claim</name><sequence>1</sequence><sys_created_by>admin</sys_created_by><sys_created_on>2019-09-18 21:44:45</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>c98d17141b8440107f81da49cc4bcb24</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-09-18 21:44:45</sys_updated_on><value>13-19%20Moderate</value></sys_choice><sys_choice_set action="INSERT_OR_UPDATE"><element>risk_result</element><name>x_137031_qc_quality_claim</name><sys_class_name>sys_choice_set</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-09-18 21:44:45</sys_created_on><sys_id>458d17141b8440107f81da49cc4bcb23</sys_id><sys_mod_count>0</sys_mod_count><sys_name>risk_result</sys_name><sys_package display_value="Quality Claim" source="x_137031_qc">d78b7e501b8c00107f81da49cc4bcbd6</sys_package><sys_policy/><sys_scope display_value="Quality Claim">d78b7e501b8c00107f81da49cc4bcbd6</sys_scope><sys_update_name>sys_choice_x_137031_qc_quality_claim_risk_result</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-09-18 21:44:45</sys_updated_on></sys_choice_set></sys_choice></record_update>]]></payload>
+        <payload_hash>1239581127</payload_hash>
+        <record_name>Supplier Corrective Action.Risk result</record_name>
+        <reverted_from/>
+        <source>db8b7e501b8c00107f81da49cc4bcbd8</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-09-18 21:45:15</sys_created_on>
+        <sys_id>d4addf141b8440107f81da49cc4bcbcb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16d46562d180000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-09-18 21:45:15</sys_updated_on>
+        <type>Choice list</type>
+        <update_guid>50addf14cb844010c3ba734d830f9acb</update_guid>
+        <update_guid_history>50addf14cb844010c3ba734d830f9acb:1239581127,5caddf14db844010ea6e1b2f27b45ec7:1609925668,4d8d17148b844010422618b363627828:-482709473</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-09-18 21:45:15</sys_created_on>
+        <sys_db_object display_value="" name="sys_choice_set">sys_choice_set</sys_db_object>
+        <sys_id>458d17141b8440107f81da49cc4bcb23</sys_id>
+        <sys_metadata>458d17141b8440107f81da49cc4bcb23</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>risk_result</sys_name>
+        <sys_package display_value="SCAR" source="x_137031_qc">d78b7e501b8c00107f81da49cc4bcbd6</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="SCAR">d78b7e501b8c00107f81da49cc4bcbd6</sys_scope>
+        <sys_scope_delete display_value="">06627c7f5632400c8185291259f90c10</sys_scope_delete>
+        <sys_update_name>sys_choice_x_137031_qc_quality_claim_risk_result</sys_update_name>
+        <sys_update_version display_value="sys_choice_x_137031_qc_quality_claim_risk_result">d4addf141b8440107f81da49cc4bcbcb</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-09-18 21:45:15</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

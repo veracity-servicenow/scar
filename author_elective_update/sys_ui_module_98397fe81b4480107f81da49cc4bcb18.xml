@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="DELETE">
+        <active>true</active>
+        <application/>
+        <filter/>
+        <name>Corrective Action Tasks</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_137031_qc.corrective_action_task_user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-09-19 18:24:10</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>98397fe81b4480107f81da49cc4bcb18</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Corrective Action Tasks</sys_name>
+        <sys_package display_value="SCAR" source="x_137031_qc">d78b7e501b8c00107f81da49cc4bcbd6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SCAR">d78b7e501b8c00107f81da49cc4bcbd6</sys_scope>
+        <sys_update_name>sys_ui_module_98397fe81b4480107f81da49cc4bcb18</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-09-19 18:24:10</sys_updated_on>
+        <table>x_137031_qc_corrective_action_task</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="SCAR">d78b7e501b8c00107f81da49cc4bcbd6</application>
+        <file_path/>
+        <instance_id>06346385dbcf7b4042b321c4059619f2</instance_id>
+        <instance_name>dev90392</instance_name>
+        <name>sys_ui_module_98397fe81b4480107f81da49cc4bcb18</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module"><sys_ui_module action="INSERT_OR_UPDATE"><active>true</active><application/><filter/><name>Corrective Action Tasks</name><order/><path/><path_relative_to_root>false</path_relative_to_root><roles>x_137031_qc.corrective_action_task_user</roles><sys_class_name>sys_ui_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-09-19 18:24:10</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>98397fe81b4480107f81da49cc4bcb18</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Corrective Action Tasks</sys_name><sys_package display_value="SCAR" source="x_137031_qc">d78b7e501b8c00107f81da49cc4bcbd6</sys_package><sys_policy/><sys_scope display_value="SCAR">d78b7e501b8c00107f81da49cc4bcbd6</sys_scope><sys_update_name>sys_ui_module_98397fe81b4480107f81da49cc4bcb18</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-09-19 18:24:10</sys_updated_on><table>x_137031_qc_corrective_action_task</table><uncancelable>false</uncancelable><view_name/></sys_ui_module></record_update>]]></payload>
+        <payload_hash>-837868920</payload_hash>
+        <record_name>Corrective Action Tasks</record_name>
+        <reverted_from/>
+        <source>db8b7e501b8c00107f81da49cc4bcbd8</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-09-19 18:24:58</sys_created_on>
+        <sys_id>5069f3ac1b4480107f81da49cc4bcbe5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16d4ac52c260000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-09-19 18:24:58</sys_updated_on>
+        <type>Module</type>
+        <update_guid>9c397fe8cc44801067c46790d5c2a71a</update_guid>
+        <update_guid_history>9c397fe8cc44801067c46790d5c2a71a:-296829990,9c397fe8cc44801067c46790d5c2a71a:-296829990</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-09-19 18:25:07</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_module">sys_ui_module</sys_db_object>
+        <sys_id>7e50785808904550bedc4dc79f1480b9</sys_id>
+        <sys_metadata>98397fe81b4480107f81da49cc4bcb18</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Corrective Action Tasks</sys_name>
+        <sys_package display_value="SCAR" source="x_137031_qc">d78b7e501b8c00107f81da49cc4bcbd6</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="SCAR">d78b7e501b8c00107f81da49cc4bcbd6</sys_scope>
+        <sys_scope_delete display_value="">06627c7f5632400c8185291259f90c10</sys_scope_delete>
+        <sys_update_name>sys_ui_module_98397fe81b4480107f81da49cc4bcb18</sys_update_name>
+        <sys_update_version display_value="sys_ui_module_98397fe81b4480107f81da49cc4bcb18">5069f3ac1b4480107f81da49cc4bcbe5</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-09-19 18:25:07</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

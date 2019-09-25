@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number">
+    <sys_number action="INSERT_OR_UPDATE">
+        <category display_value="" name="x_137031_qc_corrective_action_task">x_137031_qc_corrective_action_task</category>
+        <maximum_digits>7</maximum_digits>
+        <number>1000</number>
+        <prefix>CAT</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-09-19 18:27:27</sys_created_on>
+        <sys_id>98f9bbac1b4480107f81da49cc4bcbc6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>CAT</sys_name>
+        <sys_package display_value="SCAR" source="x_137031_qc">d78b7e501b8c00107f81da49cc4bcbd6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SCAR">d78b7e501b8c00107f81da49cc4bcbd6</sys_scope>
+        <sys_update_name>sys_number_98f9bbac1b4480107f81da49cc4bcbc6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-09-19 18:27:27</sys_updated_on>
+    </sys_number>
+</record_update>

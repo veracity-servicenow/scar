@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="use_document_viewer=true" audit="true" extends="task" label="Corrective Action Task" max_length="40" name="x_137031_qc_corrective_action_task" sizeclass="2" text_index="true" type="collection">
+        <element choice="3" default="Claim" label="Action Type" max_length="40" name="action_type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Claim" sequence="0" value="Claim"/>
+                <element inactive_on_update="false" label="Feedback" sequence="1" value="Feedback"/>
+            </choice>
+        </element>
+        <element label="Investigation Results" max_length="1000" name="investigation_results" type="string"/>
+        <element choice="3" default="Product Defect" label="Issue Type" max_length="40" name="issue_type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Product Defect" sequence="0" value="Product Defect"/>
+                <element inactive_on_update="false" label="Other" sequence="1" value="Other"/>
+            </choice>
+        </element>
+        <element label="Plant" max_length="40" name="plant" type="string"/>
+        <element label="Quality Contact" max_length="32" name="quality_contact" reference="imp_user" type="reference"/>
+        <element label="Quantity Rejected" max_length="40" name="quantity_rejected" type="string"/>
+        <element label="Return Auth Number" max_length="40" name="return_auth_number" type="string"/>
+        <element label="Root Cause" max_length="1000" name="root_cause" type="string"/>
+        <element label="Supplier Contact" max_length="40" name="supplier_contact" type="string"/>
+        <element label="Supplier Contact Email" max_length="40" name="supplier_contact_email" type="string"/>
+        <element label="Supplier Name" max_length="32" name="supplier_name" reference="core_company" type="reference"/>
+    </element>
+</database>

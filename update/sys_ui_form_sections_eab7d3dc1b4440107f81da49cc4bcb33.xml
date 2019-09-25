@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="eab7d3dc1b4440107f81da49cc4bcb33" sys_domain="global" table="x_137031_qc_quality_claim" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-09-18 21:19:29</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>66b7d3dc1b4440107f81da49cc4bcb36</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_137031_qc_quality_claim" name="x_137031_qc_quality_claim" sys_domain="global" view="Default view">eab7d3dc1b4440107f81da49cc4bcb33</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_137031_qc_quality_claim" sys_domain="global" view="Default view">85ddb69c1b0040107f81da49cc4bcbd7</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-09-18 21:19:29</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-09-18 21:32:41</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>04ca13901b8440107f81da49cc4bcb46</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_137031_qc_quality_claim" name="x_137031_qc_quality_claim" sys_domain="global" view="Default view">eab7d3dc1b4440107f81da49cc4bcb33</sys_ui_form>
+            <sys_ui_section caption="Risk Evaluation" display_value="Risk Evaluation" name="x_137031_qc_quality_claim" sys_domain="global" view="Default view">88ca13901b8440107f81da49cc4bcb43</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-09-18 21:32:41</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-09-18 21:19:29</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>72b7d3dc1b4440107f81da49cc4bcb37</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_137031_qc_quality_claim" name="x_137031_qc_quality_claim" sys_domain="global" view="Default view">eab7d3dc1b4440107f81da49cc4bcb33</sys_ui_form>
+            <sys_ui_section caption="Vendor" display_value="Vendor" name="x_137031_qc_quality_claim" sys_domain="global" view="Default view">22b7d3dc1b4440107f81da49cc4bcb32</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-09-18 21:32:41</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-09-19 18:46:55</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e16e3be01b8480107f81da49cc4bcba8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_137031_qc_quality_claim" name="x_137031_qc_quality_claim" sys_domain="global" view="Default view">eab7d3dc1b4440107f81da49cc4bcb33</sys_ui_form>
+            <sys_ui_section caption="Notes" display_value="Notes" name="x_137031_qc_quality_claim" sys_domain="global" view="Default view">e56e3be01b8480107f81da49cc4bcba5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-09-19 18:46:55</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_137031_qc_quality_claim</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-09-18 21:19:29</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>eab7d3dc1b4440107f81da49cc4bcb33</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_137031_qc_quality_claim</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="SCAR" source="x_137031_qc">d78b7e501b8c00107f81da49cc4bcbd6</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="SCAR">d78b7e501b8c00107f81da49cc4bcbd6</sys_scope>
+            <sys_update_name>sys_ui_form_sections_eab7d3dc1b4440107f81da49cc4bcb33</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-09-18 21:19:29</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

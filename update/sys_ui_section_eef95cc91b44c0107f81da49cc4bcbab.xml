@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Vendor" section_id="eef95cc91b44c0107f81da49cc4bcbab" sys_domain="global" table="x_137031_qc_quality_claim" version="3" view="workspace">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>supplier</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-09-20 15:25:54</sys_created_on>
+            <sys_id>fef99cc91b44c0107f81da49cc4bcb9e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Vendor" display_value="Vendor" name="x_137031_qc_quality_claim" sys_domain="global" view="1d43b3851bc333007f81da49cc4bcb8e">eef95cc91b44c0107f81da49cc4bcbab</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-09-20 15:25:54</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-09-20 15:25:54</sys_created_on>
+            <sys_id>76f99cc91b44c0107f81da49cc4bcb9f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Vendor" display_value="Vendor" name="x_137031_qc_quality_claim" sys_domain="global" view="1d43b3851bc333007f81da49cc4bcb8e">eef95cc91b44c0107f81da49cc4bcbab</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-09-20 15:25:54</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>vendor_contact</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-09-20 15:25:54</sys_created_on>
+            <sys_id>faf99cc91b44c0107f81da49cc4bcb9f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Vendor" display_value="Vendor" name="x_137031_qc_quality_claim" sys_domain="global" view="1d43b3851bc333007f81da49cc4bcb8e">eef95cc91b44c0107f81da49cc4bcbab</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-09-20 15:25:54</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>vendor_contact_email</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-09-20 15:25:54</sys_created_on>
+            <sys_id>72f99cc91b44c0107f81da49cc4bcba0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Vendor" display_value="Vendor" name="x_137031_qc_quality_claim" sys_domain="global" view="1d43b3851bc333007f81da49cc4bcb8e">eef95cc91b44c0107f81da49cc4bcbab</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-09-20 15:25:54</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>contact_phone_number</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-09-20 15:25:54</sys_created_on>
+            <sys_id>f6f99cc91b44c0107f81da49cc4bcba0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Vendor" display_value="Vendor" name="x_137031_qc_quality_claim" sys_domain="global" view="1d43b3851bc333007f81da49cc4bcb8e">eef95cc91b44c0107f81da49cc4bcbab</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-09-20 15:25:54</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Vendor</caption>
+            <header>false</header>
+            <name>x_137031_qc_quality_claim</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-09-20 15:25:53</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>eef95cc91b44c0107f81da49cc4bcbab</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Vendor</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="SCAR" source="x_137031_qc">d78b7e501b8c00107f81da49cc4bcbd6</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="SCAR">d78b7e501b8c00107f81da49cc4bcbd6</sys_scope>
+            <sys_update_name>sys_ui_section_eef95cc91b44c0107f81da49cc4bcbab</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-09-20 15:25:53</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Workspace" name="workspace">1d43b3851bc333007f81da49cc4bcb8e</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>
