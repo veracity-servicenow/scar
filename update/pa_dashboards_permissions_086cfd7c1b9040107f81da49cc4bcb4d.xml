@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="pa_dashboards_permissions">
+    <pa_dashboards_permissions action="INSERT_OR_UPDATE">
+        <dashboard display_value="Supplier Corrective Actions">e25ab9f81b9040107f81da49cc4bcbf2</dashboard>
+        <delete>false</delete>
+        <group/>
+        <identity>x_137031_qc.corrective_action_task_user</identity>
+        <read>true</read>
+        <role display_value="x_137031_qc.corrective_action_task_user" name="x_137031_qc.corrective_action_task_user">083973e81b4480107f81da49cc4bcb7a</role>
+        <sys_class_name>pa_dashboards_permissions</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-10-02 14:13:00</sys_created_on>
+        <sys_id>086cfd7c1b9040107f81da49cc4bcb4d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_137031_qc.corrective_action_task_user</sys_name>
+        <sys_package display_value="SCAR" source="x_137031_qc">d78b7e501b8c00107f81da49cc4bcbd6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SCAR">d78b7e501b8c00107f81da49cc4bcbd6</sys_scope>
+        <sys_update_name>pa_dashboards_permissions_086cfd7c1b9040107f81da49cc4bcb4d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-10-02 14:13:00</sys_updated_on>
+        <type>1</type>
+        <user/>
+        <write>false</write>
+    </pa_dashboards_permissions>
+</record_update>

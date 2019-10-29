@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="contract_sla">
+    <contract_sla action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <cancel_condition/>
+        <collection>x_137031_qc_corrective_action_task</collection>
+        <condition_class/>
+        <duration>1970-01-03 00:00:00</duration>
+        <duration_type/>
+        <enable_logging>false</enable_logging>
+        <name>SCAR Vendor Response</name>
+        <pause_condition/>
+        <relative_duration_works_on>Task record</relative_duration_works_on>
+        <reset_action>cancel</reset_action>
+        <reset_condition/>
+        <resume_condition/>
+        <retroactive>false</retroactive>
+        <retroactive_pause>true</retroactive_pause>
+        <schedule/>
+        <schedule_source>no_schedule</schedule_source>
+        <schedule_source_field/>
+        <set_start_to>work_end</set_start_to>
+        <start_condition table="x_137031_qc_corrective_action_task">state=14^EQ<item display_value="Pending Response" endquery="false" field="state" goto="false" newquery="false" operator="=" or="false" value="14"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </start_condition>
+        <stop_condition table="x_137031_qc_corrective_action_task">state=15^EQ<item display_value="Response Received" endquery="false" field="state" goto="false" newquery="false" operator="=" or="false" value="15"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </stop_condition>
+        <sys_class_name>contract_sla</sys_class_name>
+        <sys_created_by>todd.fudala</sys_created_by>
+        <sys_created_on>2019-10-15 14:25:55</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>0b9b7cc91b2000107f81da49cc4bcbbc</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>SCAR Vendor Response</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="SCAR" source="x_137031_qc">d78b7e501b8c00107f81da49cc4bcbd6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SCAR">d78b7e501b8c00107f81da49cc4bcbd6</sys_scope>
+        <sys_update_name>contract_sla_0b9b7cc91b2000107f81da49cc4bcbbc</sys_update_name>
+        <sys_updated_by>todd.fudala</sys_updated_by>
+        <sys_updated_on>2019-10-15 14:59:33</sys_updated_on>
+        <target>response</target>
+        <timezone/>
+        <timezone_source>task.caller_id.time_zone</timezone_source>
+        <type>Underpinning contract</type>
+        <when_to_cancel>on_condition</when_to_cancel>
+        <when_to_resume>on_condition</when_to_resume>
+        <workflow display_value="Default SLA workflow">4b6570360a0a0b3000bbacab877713f2</workflow>
+    </contract_sla>
+</record_update>

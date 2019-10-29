@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="email_body" label="Email Body" language="en" table="var__m_sys_hub_action_input_26dbb6fc1b9440107f81da49cc4bcb9e">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>email_body</element>
+            <help/>
+            <hint/>
+            <label>Email Body</label>
+            <language>en</language>
+            <name>var__m_sys_hub_action_input_26dbb6fc1b9440107f81da49cc4bcb9e</name>
+            <plural/>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>luke.marsh</sys_created_by>
+            <sys_created_on>2019-10-02 18:55:47</sys_created_on>
+            <sys_id>9a1dfa301bd440107f81da49cc4bcb56</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Email Body</sys_name>
+            <sys_package display_value="SCAR" source="x_137031_qc">d78b7e501b8c00107f81da49cc4bcbd6</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="SCAR">d78b7e501b8c00107f81da49cc4bcbd6</sys_scope>
+            <sys_update_name>sys_documentation_var__m_sys_hub_action_input_26dbb6fc1b9440107f81da49cc4bcb9e_email_body_en</sys_update_name>
+            <sys_updated_by>luke.marsh</sys_updated_by>
+            <sys_updated_on>2019-10-02 18:55:47</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

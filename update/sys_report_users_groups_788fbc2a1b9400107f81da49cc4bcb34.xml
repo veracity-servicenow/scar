@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_report_users_groups">
+    <sys_report_users_groups action="INSERT_OR_UPDATE">
+        <group_id display_value="SCAR Fulfillers" name="SCAR Fulfillers">4a145f981b4440107f81da49cc4bcba2</group_id>
+        <report_id display_value="Pending Response">5e49fd781b9040107f81da49cc4bcb84</report_id>
+        <sys_class_name>sys_report_users_groups</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-10-07 20:16:27</sys_created_on>
+        <sys_id>788fbc2a1b9400107f81da49cc4bcb34</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>5e49fd781b9040107f81da49cc4bcb84</sys_name>
+        <sys_package display_value="SCAR" source="x_137031_qc">d78b7e501b8c00107f81da49cc4bcbd6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SCAR">d78b7e501b8c00107f81da49cc4bcbd6</sys_scope>
+        <sys_update_name>sys_report_users_groups_788fbc2a1b9400107f81da49cc4bcb34</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-10-07 20:16:27</sys_updated_on>
+        <user_id/>
+    </sys_report_users_groups>
+</record_update>

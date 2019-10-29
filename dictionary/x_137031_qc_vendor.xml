@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="core_company" label="Vendor" max_length="40" name="x_137031_qc_vendor" type="collection">
+        <element label="Vendor Contact" max_length="32" name="vendor_contact" reference="x_137031_qc_vendor_contact" type="reference"/>
+        <index name="index">
+            <element name="vendor_contact"/>
+        </index>
+    </element>
+</database>

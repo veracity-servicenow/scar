@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="General" section_id="b7840b411b1000107f81da49cc4bcbf6" sys_domain="global" table="x_137031_qc_vendor" version="3" view="vendor">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>0</position>
+            <sys_created_by>luke.marsh</sys_created_by>
+            <sys_created_on>2019-10-03 14:06:51</sys_created_on>
+            <sys_id>7f840b411b1000107f81da49cc4bcbf7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="General" display_value="General" name="x_137031_qc_vendor" sys_domain="global" view="c12b7492d7010100fceaa6859e6103e6">b7840b411b1000107f81da49cc4bcbf6</sys_ui_section>
+            <sys_updated_by>luke.marsh</sys_updated_by>
+            <sys_updated_on>2019-10-03 14:06:51</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>street</element>
+            <position>1</position>
+            <sys_created_by>luke.marsh</sys_created_by>
+            <sys_created_on>2019-10-03 14:06:51</sys_created_on>
+            <sys_id>77840b411b1000107f81da49cc4bcbf8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="General" display_value="General" name="x_137031_qc_vendor" sys_domain="global" view="c12b7492d7010100fceaa6859e6103e6">b7840b411b1000107f81da49cc4bcbf6</sys_ui_section>
+            <sys_updated_by>luke.marsh</sys_updated_by>
+            <sys_updated_on>2019-10-03 14:06:51</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>city</element>
+            <position>2</position>
+            <sys_created_by>luke.marsh</sys_created_by>
+            <sys_created_on>2019-10-03 14:06:51</sys_created_on>
+            <sys_id>f7840b411b1000107f81da49cc4bcbf8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="General" display_value="General" name="x_137031_qc_vendor" sys_domain="global" view="c12b7492d7010100fceaa6859e6103e6">b7840b411b1000107f81da49cc4bcbf6</sys_ui_section>
+            <sys_updated_by>luke.marsh</sys_updated_by>
+            <sys_updated_on>2019-10-03 14:06:51</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>state</element>
+            <position>3</position>
+            <sys_created_by>luke.marsh</sys_created_by>
+            <sys_created_on>2019-10-03 14:06:51</sys_created_on>
+            <sys_id>7b840b411b1000107f81da49cc4bcbf8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="General" display_value="General" name="x_137031_qc_vendor" sys_domain="global" view="c12b7492d7010100fceaa6859e6103e6">b7840b411b1000107f81da49cc4bcbf6</sys_ui_section>
+            <sys_updated_by>luke.marsh</sys_updated_by>
+            <sys_updated_on>2019-10-03 14:06:51</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>zip</element>
+            <position>4</position>
+            <sys_created_by>luke.marsh</sys_created_by>
+            <sys_created_on>2019-10-03 14:06:51</sys_created_on>
+            <sys_id>fb840b411b1000107f81da49cc4bcbf8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="General" display_value="General" name="x_137031_qc_vendor" sys_domain="global" view="c12b7492d7010100fceaa6859e6103e6">b7840b411b1000107f81da49cc4bcbf6</sys_ui_section>
+            <sys_updated_by>luke.marsh</sys_updated_by>
+            <sys_updated_on>2019-10-03 14:06:51</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>country</element>
+            <position>5</position>
+            <sys_created_by>luke.marsh</sys_created_by>
+            <sys_created_on>2019-10-03 14:06:51</sys_created_on>
+            <sys_id>7f840b411b1000107f81da49cc4bcbf8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="General" display_value="General" name="x_137031_qc_vendor" sys_domain="global" view="c12b7492d7010100fceaa6859e6103e6">b7840b411b1000107f81da49cc4bcbf6</sys_ui_section>
+            <sys_updated_by>luke.marsh</sys_updated_by>
+            <sys_updated_on>2019-10-03 14:06:51</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>6</position>
+            <sys_created_by>luke.marsh</sys_created_by>
+            <sys_created_on>2019-10-03 14:06:51</sys_created_on>
+            <sys_id>b38443091b1000107f81da49cc4bcb61</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="General" display_value="General" name="x_137031_qc_vendor" sys_domain="global" view="c12b7492d7010100fceaa6859e6103e6">b7840b411b1000107f81da49cc4bcbf6</sys_ui_section>
+            <sys_updated_by>luke.marsh</sys_updated_by>
+            <sys_updated_on>2019-10-03 14:06:51</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>stock_symbol</element>
+            <position>7</position>
+            <sys_created_by>luke.marsh</sys_created_by>
+            <sys_created_on>2019-10-03 14:06:51</sys_created_on>
+            <sys_id>378443091b1000107f81da49cc4bcb61</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="General" display_value="General" name="x_137031_qc_vendor" sys_domain="global" view="c12b7492d7010100fceaa6859e6103e6">b7840b411b1000107f81da49cc4bcbf6</sys_ui_section>
+            <sys_updated_by>luke.marsh</sys_updated_by>
+            <sys_updated_on>2019-10-03 14:06:51</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>latitude</element>
+            <position>8</position>
+            <sys_created_by>luke.marsh</sys_created_by>
+            <sys_created_on>2019-10-03 14:06:51</sys_created_on>
+            <sys_id>b78443091b1000107f81da49cc4bcb61</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="General" display_value="General" name="x_137031_qc_vendor" sys_domain="global" view="c12b7492d7010100fceaa6859e6103e6">b7840b411b1000107f81da49cc4bcbf6</sys_ui_section>
+            <sys_updated_by>luke.marsh</sys_updated_by>
+            <sys_updated_on>2019-10-03 14:06:51</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>longitude</element>
+            <position>9</position>
+            <sys_created_by>luke.marsh</sys_created_by>
+            <sys_created_on>2019-10-03 14:06:51</sys_created_on>
+            <sys_id>3b8443091b1000107f81da49cc4bcb61</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="General" display_value="General" name="x_137031_qc_vendor" sys_domain="global" view="c12b7492d7010100fceaa6859e6103e6">b7840b411b1000107f81da49cc4bcbf6</sys_ui_section>
+            <sys_updated_by>luke.marsh</sys_updated_by>
+            <sys_updated_on>2019-10-03 14:06:51</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>website</element>
+            <position>10</position>
+            <sys_created_by>luke.marsh</sys_created_by>
+            <sys_created_on>2019-10-03 14:06:51</sys_created_on>
+            <sys_id>bb8443091b1000107f81da49cc4bcb61</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="General" display_value="General" name="x_137031_qc_vendor" sys_domain="global" view="c12b7492d7010100fceaa6859e6103e6">b7840b411b1000107f81da49cc4bcbf6</sys_ui_section>
+            <sys_updated_by>luke.marsh</sys_updated_by>
+            <sys_updated_on>2019-10-03 14:06:51</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>banner_image</element>
+            <position>11</position>
+            <sys_created_by>luke.marsh</sys_created_by>
+            <sys_created_on>2019-10-03 14:06:51</sys_created_on>
+            <sys_id>3f8443091b1000107f81da49cc4bcb61</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="General" display_value="General" name="x_137031_qc_vendor" sys_domain="global" view="c12b7492d7010100fceaa6859e6103e6">b7840b411b1000107f81da49cc4bcbf6</sys_ui_section>
+            <sys_updated_by>luke.marsh</sys_updated_by>
+            <sys_updated_on>2019-10-03 14:06:51</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>banner_text</element>
+            <position>12</position>
+            <sys_created_by>luke.marsh</sys_created_by>
+            <sys_created_on>2019-10-03 14:06:51</sys_created_on>
+            <sys_id>bf8443091b1000107f81da49cc4bcb61</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="General" display_value="General" name="x_137031_qc_vendor" sys_domain="global" view="c12b7492d7010100fceaa6859e6103e6">b7840b411b1000107f81da49cc4bcbf6</sys_ui_section>
+            <sys_updated_by>luke.marsh</sys_updated_by>
+            <sys_updated_on>2019-10-03 14:06:51</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>13</position>
+            <sys_created_by>luke.marsh</sys_created_by>
+            <sys_created_on>2019-10-03 14:06:51</sys_created_on>
+            <sys_id>338443091b1000107f81da49cc4bcb62</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="General" display_value="General" name="x_137031_qc_vendor" sys_domain="global" view="c12b7492d7010100fceaa6859e6103e6">b7840b411b1000107f81da49cc4bcbf6</sys_ui_section>
+            <sys_updated_by>luke.marsh</sys_updated_by>
+            <sys_updated_on>2019-10-03 14:06:51</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>General</caption>
+            <header>false</header>
+            <name>x_137031_qc_vendor</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>luke.marsh</sys_created_by>
+            <sys_created_on>2019-10-03 14:06:51</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b7840b411b1000107f81da49cc4bcbf6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>General</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="SCAR" source="x_137031_qc">d78b7e501b8c00107f81da49cc4bcbd6</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="SCAR">d78b7e501b8c00107f81da49cc4bcbd6</sys_scope>
+            <sys_update_name>sys_ui_section_b7840b411b1000107f81da49cc4bcbf6</sys_update_name>
+            <sys_updated_by>luke.marsh</sys_updated_by>
+            <sys_updated_on>2019-10-03 14:06:51</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Vendor" name="vendor">c12b7492d7010100fceaa6859e6103e6</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

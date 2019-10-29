@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Vendor">ea615b341b1840107f81da49cc4bcbf7</application>
+        <filter/>
+        <name>Vendors</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_137031_qc.corrective_action_task_user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>luke.marsh</sys_created_by>
+        <sys_created_on>2019-10-02 20:24:32</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>a6615b341b1840107f81da49cc4bcbfa</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Vendors</sys_name>
+        <sys_package display_value="SCAR" source="x_137031_qc">d78b7e501b8c00107f81da49cc4bcbd6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SCAR">d78b7e501b8c00107f81da49cc4bcbd6</sys_scope>
+        <sys_update_name>sys_ui_module_a6615b341b1840107f81da49cc4bcbfa</sys_update_name>
+        <sys_updated_by>luke.marsh</sys_updated_by>
+        <sys_updated_on>2019-10-02 20:24:32</sys_updated_on>
+        <table>x_137031_qc_vendor</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+</record_update>

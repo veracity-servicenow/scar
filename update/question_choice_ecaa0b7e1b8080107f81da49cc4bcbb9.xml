@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice">
+    <question_choice action="INSERT_OR_UPDATE">
+        <misc>0</misc>
+        <order>200</order>
+        <question display_value="Rate the SEVERITY of this issue">825a037e1b8080107f81da49cc4bcb31</question>
+        <rec_misc>0</rec_misc>
+        <sys_class_name>question_choice</sys_class_name>
+        <sys_created_by>luke.marsh</sys_created_by>
+        <sys_created_on>2019-09-26 14:47:09</sys_created_on>
+        <sys_id>ecaa0b7e1b8080107f81da49cc4bcbb9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Serious</sys_name>
+        <sys_package display_value="SCAR" source="x_137031_qc">d78b7e501b8c00107f81da49cc4bcbd6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SCAR">d78b7e501b8c00107f81da49cc4bcbd6</sys_scope>
+        <sys_update_name>question_choice_ecaa0b7e1b8080107f81da49cc4bcbb9</sys_update_name>
+        <sys_updated_by>luke.marsh</sys_updated_by>
+        <sys_updated_on>2019-09-26 14:47:09</sys_updated_on>
+        <text>Serious</text>
+        <value>Serious</value>
+    </question_choice>
+    <fx_price action="delete_multiple" query="id=ecaa0b7e1b8080107f81da49cc4bcbb9"/>
+    <fx_price action="INSERT_OR_UPDATE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>misc</field>
+        <id>ecaa0b7e1b8080107f81da49cc4bcbb9</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>luke.marsh</sys_created_by>
+        <sys_created_on>2019-09-26 14:47:09</sys_created_on>
+        <sys_id>b1aa877e1b8080107f81da49cc4bcb89</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>luke.marsh</sys_updated_by>
+        <sys_updated_on>2019-09-26 14:47:09</sys_updated_on>
+        <table>question_choice</table>
+        <type>calculated</type>
+    </fx_price>
+    <fx_price action="INSERT_OR_UPDATE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>rec_misc</field>
+        <id>ecaa0b7e1b8080107f81da49cc4bcbb9</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>luke.marsh</sys_created_by>
+        <sys_created_on>2019-09-26 14:47:09</sys_created_on>
+        <sys_id>79aa877e1b8080107f81da49cc4bcb88</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>luke.marsh</sys_updated_by>
+        <sys_updated_on>2019-09-26 14:47:09</sys_updated_on>
+        <table>question_choice</table>
+        <type>calculated</type>
+    </fx_price>
+</record_update>

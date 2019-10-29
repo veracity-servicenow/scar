@@ -30,6 +30,8 @@
         <order>100</order>
         <script><![CDATA[current.state = 14;
 current.update();
+
+action.setRedirectURL(current);
 ]]></script>
         <show_insert>false</show_insert>
         <show_multiple_update>false</show_multiple_update>
@@ -41,15 +43,15 @@ current.update();
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>f2404d811b08c0107f81da49cc4bcb5c</sys_id>
-        <sys_mod_count>4</sys_mod_count>
+        <sys_mod_count>8</sys_mod_count>
         <sys_name>Notify Supplier</sys_name>
         <sys_overrides/>
         <sys_package display_value="SCAR" source="x_137031_qc">d78b7e501b8c00107f81da49cc4bcbd6</sys_package>
         <sys_policy/>
         <sys_scope display_value="SCAR">d78b7e501b8c00107f81da49cc4bcbd6</sys_scope>
         <sys_update_name>sys_ui_action_f2404d811b08c0107f81da49cc4bcb5c</sys_update_name>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-09-20 18:32:57</sys_updated_on>
+        <sys_updated_by>todd.fudala</sys_updated_by>
+        <sys_updated_on>2019-10-15 14:45:48</sys_updated_on>
         <table>x_137031_qc_corrective_action_task</table>
         <ui11_compatible>true</ui11_compatible>
         <ui16_compatible>false</ui16_compatible>

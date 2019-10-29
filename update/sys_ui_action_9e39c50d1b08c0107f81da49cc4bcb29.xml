@@ -28,12 +28,23 @@
         <name>Create Corrective Task</name>
         <onclick/>
         <order>100</order>
-        <script><![CDATA[var cat = new GlideRecord('x_137031_qc_corrective_action_task');
+        <script><![CDATA[current.state = 14;
+current.update();
+
+var cat = new GlideRecord('x_137031_qc_corrective_action_task');
 cat.initialize();
-//cat.parent = current;
-cat.assigned_to = current.parent.assigned_to;
-cat.description = current.parent.description;
-cat.insert();]]></script>
+cat.parent = current.sys_id;
+cat.assigned_to = current.assigned_to;
+cat.short_description = current.short_description;
+cat.description = current.description;
+cat.supplier_name = current.supplier;
+cat.supplier_contact = current.vendor_contact;
+cat.supplier_contact_email = current.vendor_contact_email;
+cat.quantity_rejected = current.quantity_rejected;
+cat.state = 2;
+cat.insert();
+
+action.setRedirectURL (cat) ;]]></script>
         <show_insert>false</show_insert>
         <show_multiple_update>false</show_multiple_update>
         <show_query>false</show_query>
@@ -44,15 +55,15 @@ cat.insert();]]></script>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>9e39c50d1b08c0107f81da49cc4bcb29</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>14</sys_mod_count>
         <sys_name>Create Corrective Task</sys_name>
         <sys_overrides/>
         <sys_package display_value="SCAR" source="x_137031_qc">d78b7e501b8c00107f81da49cc4bcbd6</sys_package>
         <sys_policy/>
         <sys_scope display_value="SCAR">d78b7e501b8c00107f81da49cc4bcbd6</sys_scope>
         <sys_update_name>sys_ui_action_9e39c50d1b08c0107f81da49cc4bcb29</sys_update_name>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-09-20 19:08:34</sys_updated_on>
+        <sys_updated_by>luke.marsh</sys_updated_by>
+        <sys_updated_on>2019-10-07 19:40:49</sys_updated_on>
         <table>x_137031_qc_quality_claim</table>
         <ui11_compatible>true</ui11_compatible>
         <ui16_compatible>false</ui16_compatible>

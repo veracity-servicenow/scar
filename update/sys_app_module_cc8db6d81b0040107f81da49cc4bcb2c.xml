@@ -15,7 +15,7 @@
         <mobile_title>Open</mobile_title>
         <mobile_view_name>Mobile</mobile_view_name>
         <name>x_137031_qc_quality_claim</name>
-        <order>3</order>
+        <order>30</order>
         <override_menu_roles>false</override_menu_roles>
         <query/>
         <report/>
@@ -26,7 +26,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>cc8db6d81b0040107f81da49cc4bcb2c</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name>Open</sys_name>
         <sys_overrides/>
         <sys_package display_value="SCAR" source="x_137031_qc">d78b7e501b8c00107f81da49cc4bcbd6</sys_package>
@@ -34,7 +34,7 @@
         <sys_scope display_value="SCAR">d78b7e501b8c00107f81da49cc4bcbd6</sys_scope>
         <sys_update_name>sys_app_module_cc8db6d81b0040107f81da49cc4bcb2c</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-09-18 19:24:52</sys_updated_on>
+        <sys_updated_on>2019-10-02 14:17:41</sys_updated_on>
         <timeline_page/>
         <title>Open</title>
         <uncancelable>false</uncancelable>

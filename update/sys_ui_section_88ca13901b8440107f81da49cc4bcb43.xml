@@ -3,140 +3,154 @@
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>product_rejected</element>
             <position>0</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-09-18 21:46:31</sys_created_on>
-            <sys_id>3eed17541b8440107f81da49cc4bcbfb</sys_id>
+            <sys_created_by>luke.marsh</sys_created_by>
+            <sys_created_on>2019-09-26 18:54:55</sys_created_on>
+            <sys_id>8b53c0c31b8480107f81da49cc4bcb34</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Risk Evaluation" display_value="Risk Evaluation" name="x_137031_qc_quality_claim" sys_domain="global" view="Default view">88ca13901b8440107f81da49cc4bcb43</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-09-18 21:46:31</sys_updated_on>
+            <sys_updated_by>luke.marsh</sys_updated_by>
+            <sys_updated_on>2019-09-26 18:54:55</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>repeat_issue</element>
             <position>1</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-09-18 21:46:31</sys_created_on>
-            <sys_id>beed17541b8440107f81da49cc4bcbfb</sys_id>
+            <sys_created_by>luke.marsh</sys_created_by>
+            <sys_created_on>2019-09-26 18:54:55</sys_created_on>
+            <sys_id>0f53c0c31b8480107f81da49cc4bcb34</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Risk Evaluation" display_value="Risk Evaluation" name="x_137031_qc_quality_claim" sys_domain="global" view="Default view">88ca13901b8440107f81da49cc4bcb43</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-09-18 21:46:31</sys_updated_on>
+            <sys_updated_by>luke.marsh</sys_updated_by>
+            <sys_updated_on>2019-09-26 18:54:55</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>severity</element>
             <position>2</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-09-18 21:46:31</sys_created_on>
-            <sys_id>32ed17541b8440107f81da49cc4bcbfc</sys_id>
+            <sys_created_by>luke.marsh</sys_created_by>
+            <sys_created_on>2019-09-26 18:54:55</sys_created_on>
+            <sys_id>8f53c0c31b8480107f81da49cc4bcb34</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Risk Evaluation" display_value="Risk Evaluation" name="x_137031_qc_quality_claim" sys_domain="global" view="Default view">88ca13901b8440107f81da49cc4bcb43</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-09-18 21:46:31</sys_updated_on>
+            <sys_updated_by>luke.marsh</sys_updated_by>
+            <sys_updated_on>2019-09-26 18:54:55</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>ability_to_detect</element>
             <position>3</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-09-18 21:46:31</sys_created_on>
-            <sys_id>b2ed17541b8440107f81da49cc4bcbfc</sys_id>
+            <sys_created_by>luke.marsh</sys_created_by>
+            <sys_created_on>2019-09-26 18:54:55</sys_created_on>
+            <sys_id>0353c0c31b8480107f81da49cc4bcb35</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Risk Evaluation" display_value="Risk Evaluation" name="x_137031_qc_quality_claim" sys_domain="global" view="Default view">88ca13901b8440107f81da49cc4bcb43</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-09-18 21:46:31</sys_updated_on>
+            <sys_updated_by>luke.marsh</sys_updated_by>
+            <sys_updated_on>2019-09-26 18:54:55</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>issue_frequency</element>
             <position>4</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-09-18 21:46:31</sys_created_on>
-            <sys_id>36ed17541b8440107f81da49cc4bcbfc</sys_id>
+            <sys_created_by>luke.marsh</sys_created_by>
+            <sys_created_on>2019-09-26 18:54:55</sys_created_on>
+            <sys_id>8353c0c31b8480107f81da49cc4bcb35</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Risk Evaluation" display_value="Risk Evaluation" name="x_137031_qc_quality_claim" sys_domain="global" view="Default view">88ca13901b8440107f81da49cc4bcb43</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-09-18 21:46:31</sys_updated_on>
+            <sys_updated_by>luke.marsh</sys_updated_by>
+            <sys_updated_on>2019-09-26 18:54:55</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.split</element>
             <position>5</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-09-18 21:46:31</sys_created_on>
-            <sys_id>b6ed17541b8440107f81da49cc4bcbfc</sys_id>
+            <sys_created_by>luke.marsh</sys_created_by>
+            <sys_created_on>2019-09-26 18:54:55</sys_created_on>
+            <sys_id>0753c0c31b8480107f81da49cc4bcb35</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Risk Evaluation" display_value="Risk Evaluation" name="x_137031_qc_quality_claim" sys_domain="global" view="Default view">88ca13901b8440107f81da49cc4bcb43</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-09-18 21:46:31</sys_updated_on>
+            <sys_updated_by>luke.marsh</sys_updated_by>
+            <sys_updated_on>2019-09-26 18:54:55</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>impacted_cost</element>
+            <element>quantity_rejected</element>
             <position>6</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-09-18 21:46:31</sys_created_on>
-            <sys_id>3aed17541b8440107f81da49cc4bcbfc</sys_id>
+            <sys_created_by>luke.marsh</sys_created_by>
+            <sys_created_on>2019-09-26 18:54:55</sys_created_on>
+            <sys_id>8753c0c31b8480107f81da49cc4bcb35</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Risk Evaluation" display_value="Risk Evaluation" name="x_137031_qc_quality_claim" sys_domain="global" view="Default view">88ca13901b8440107f81da49cc4bcb43</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-09-18 21:46:31</sys_updated_on>
+            <sys_updated_by>luke.marsh</sys_updated_by>
+            <sys_updated_on>2019-09-26 18:54:55</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>impacted_cost</element>
+            <position>7</position>
+            <sys_created_by>luke.marsh</sys_created_by>
+            <sys_created_on>2019-09-26 18:54:55</sys_created_on>
+            <sys_id>0b53c0c31b8480107f81da49cc4bcb35</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Risk Evaluation" display_value="Risk Evaluation" name="x_137031_qc_quality_claim" sys_domain="global" view="Default view">88ca13901b8440107f81da49cc4bcb43</sys_ui_section>
+            <sys_updated_by>luke.marsh</sys_updated_by>
+            <sys_updated_on>2019-09-26 18:54:55</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>risk_score</element>
-            <position>7</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-09-18 21:46:31</sys_created_on>
-            <sys_id>baed17541b8440107f81da49cc4bcbfc</sys_id>
+            <position>8</position>
+            <sys_created_by>luke.marsh</sys_created_by>
+            <sys_created_on>2019-09-26 18:54:55</sys_created_on>
+            <sys_id>8b53c0c31b8480107f81da49cc4bcb35</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Risk Evaluation" display_value="Risk Evaluation" name="x_137031_qc_quality_claim" sys_domain="global" view="Default view">88ca13901b8440107f81da49cc4bcb43</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-09-18 21:46:31</sys_updated_on>
+            <sys_updated_by>luke.marsh</sys_updated_by>
+            <sys_updated_on>2019-09-26 18:54:55</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>risk_result</element>
-            <position>8</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-09-18 21:46:31</sys_created_on>
-            <sys_id>3eed17541b8440107f81da49cc4bcbfc</sys_id>
+            <position>9</position>
+            <sys_created_by>luke.marsh</sys_created_by>
+            <sys_created_on>2019-09-26 18:54:55</sys_created_on>
+            <sys_id>0f53c0c31b8480107f81da49cc4bcb35</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Risk Evaluation" display_value="Risk Evaluation" name="x_137031_qc_quality_claim" sys_domain="global" view="Default view">88ca13901b8440107f81da49cc4bcb43</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-09-18 21:46:31</sys_updated_on>
+            <sys_updated_by>luke.marsh</sys_updated_by>
+            <sys_updated_on>2019-09-26 18:54:55</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>risk_result_points</element>
-            <position>9</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-09-18 21:46:31</sys_created_on>
-            <sys_id>beed17541b8440107f81da49cc4bcbfc</sys_id>
+            <position>10</position>
+            <sys_created_by>luke.marsh</sys_created_by>
+            <sys_created_on>2019-09-26 18:54:55</sys_created_on>
+            <sys_id>8f53c0c31b8480107f81da49cc4bcb35</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Risk Evaluation" display_value="Risk Evaluation" name="x_137031_qc_quality_claim" sys_domain="global" view="Default view">88ca13901b8440107f81da49cc4bcb43</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-09-18 21:46:31</sys_updated_on>
+            <sys_updated_by>luke.marsh</sys_updated_by>
+            <sys_updated_on>2019-09-26 18:54:55</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>

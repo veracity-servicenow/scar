@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="SCAR">b37df2181b8c00107f81da49cc4bcb65</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage display_value="PA New Tab">357a3db81b9040107f81da49cc4bcb1d</homepage>
+        <image/>
+        <link_type>DIRECT</link_type>
+        <map_page/>
+        <mobile_title>Overview</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name/>
+        <order>10</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query>$pa_dashboard.do?sysparm_dashboard=e25ab9f81b9040107f81da49cc4bcbf2&#13;
+</query>
+        <report/>
+        <roles/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-10-02 14:18:47</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>1c8db5fc1b9040107f81da49cc4bcbaa</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>Overview</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="SCAR" source="x_137031_qc">d78b7e501b8c00107f81da49cc4bcbd6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SCAR">d78b7e501b8c00107f81da49cc4bcbd6</sys_scope>
+        <sys_update_name>sys_app_module_1c8db5fc1b9040107f81da49cc4bcbaa</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-10-02 14:24:33</sys_updated_on>
+        <timeline_page/>
+        <title>Overview</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+</record_update>

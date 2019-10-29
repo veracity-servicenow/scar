@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice">
+    <question_choice action="INSERT_OR_UPDATE">
+        <misc>0</misc>
+        <order>200</order>
+        <question display_value="Rate the ability to DETECT the error/defect prior to use">29cacf3e1b8080107f81da49cc4bcbcc</question>
+        <rec_misc>0</rec_misc>
+        <sys_class_name>question_choice</sys_class_name>
+        <sys_created_by>luke.marsh</sys_created_by>
+        <sys_created_on>2019-09-26 14:49:03</sys_created_on>
+        <sys_id>ef0b877e1b8080107f81da49cc4bcb8e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Unlikely</sys_name>
+        <sys_package display_value="SCAR" source="x_137031_qc">d78b7e501b8c00107f81da49cc4bcbd6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SCAR">d78b7e501b8c00107f81da49cc4bcbd6</sys_scope>
+        <sys_update_name>question_choice_ef0b877e1b8080107f81da49cc4bcb8e</sys_update_name>
+        <sys_updated_by>luke.marsh</sys_updated_by>
+        <sys_updated_on>2019-09-26 14:49:03</sys_updated_on>
+        <text>Unlikely</text>
+        <value>Unlikely</value>
+    </question_choice>
+    <fx_price action="delete_multiple" query="id=ef0b877e1b8080107f81da49cc4bcb8e"/>
+    <fx_price action="INSERT_OR_UPDATE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>misc</field>
+        <id>ef0b877e1b8080107f81da49cc4bcb8e</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>luke.marsh</sys_created_by>
+        <sys_created_on>2019-09-26 14:49:03</sys_created_on>
+        <sys_id>211b83be1b8080107f81da49cc4bcb4e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>luke.marsh</sys_updated_by>
+        <sys_updated_on>2019-09-26 14:49:03</sys_updated_on>
+        <table>question_choice</table>
+        <type>calculated</type>
+    </fx_price>
+    <fx_price action="INSERT_OR_UPDATE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>rec_misc</field>
+        <id>ef0b877e1b8080107f81da49cc4bcb8e</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>luke.marsh</sys_created_by>
+        <sys_created_on>2019-09-26 14:49:03</sys_created_on>
+        <sys_id>e51b83be1b8080107f81da49cc4bcb4d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>luke.marsh</sys_updated_by>
+        <sys_updated_on>2019-09-26 14:49:03</sys_updated_on>
+        <table>question_choice</table>
+        <type>calculated</type>
+    </fx_price>
+</record_update>
